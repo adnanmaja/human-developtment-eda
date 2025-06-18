@@ -51,10 +51,10 @@ We aim to answer:
 ---
 
 ## 📊 Sample Plot
-- (RLS vs IPM raw values (Strong))
+- RLS vs IPM raw values (Strong)
 ![RLS vs IPM raw values (Strong)](preview1.png)
-- (RLS vs IPM YoY rowth (No correlation))
+- RLS vs IPM YoY rowth (No correlation)
 ![RLS vs IPM YoY rowth (No correlation)](preview2.png)
-- (RLS vs IPM 5-year growth % (Very weak correlation))
+- RLS vs IPM 5-year growth % (Very weak correlation)
 ![RLS vs IPM 5-year growth % (Very weak correlation)](preview3.png)
 
